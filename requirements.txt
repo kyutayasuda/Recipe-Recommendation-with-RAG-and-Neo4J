@@ -1,0 +1,6 @@
+neo4j==5.14.1
+langchain==0.1.9
+langchain-community==0.0.24
+openai==1.12.0
+spacy==3.7.4
+python-dotenv==1.0.1 
